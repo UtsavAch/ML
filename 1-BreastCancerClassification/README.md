@@ -8,7 +8,7 @@ The goal of this project is to build a machine learning model that predicts whet
 
 ---
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 This project uses the **Breast Cancer Wisconsin (Diagnostic)** dataset.
 
@@ -41,7 +41,7 @@ Examples include:
 
 ---
 
-## 🎯 Target Classes
+## Target Classes
 
 | Label | Description |
 | ----- | ----------- |
@@ -54,7 +54,7 @@ Examples include:
 
 Breast Cancer Wisconsin (Diagnostic) Dataset  
 UCI Machine Learning Repository  
-🔗 https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
+https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
 
 ---
 
@@ -68,7 +68,7 @@ UCI Machine Learning Repository
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python
 - pandas, NumPy
