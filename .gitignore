@@ -1,0 +1,18 @@
+# macOS system files
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# GitHub Pages build folder (optional)
+.pages/
+
+# Python cache files (useful to include too)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files (optional)
+.env
+.venv/
